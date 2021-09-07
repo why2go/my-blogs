@@ -8,6 +8,7 @@
 _site
 vendor
 Gemfile.lock
+Gemfile
 
 # rubygem
 *.gem
